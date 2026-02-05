@@ -54,7 +54,7 @@ blog-project/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/yourusername/blog-project.git
+git clone https://github.com/crestedweb/blog-project.git
 cd blog-project
 
 2️⃣ Backend Setup
